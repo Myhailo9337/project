@@ -1,6 +1,6 @@
-/**This program describes a game in which the player is to help a student of Kyiv-Mohyla academy to pass all the exams.
+/**This program describes a game in which the player is to help a student of Kyiv-Mohyla Academy to pass all the exams.
  * File: Main.java
- * Author: Okhrimenko Mykhailo, Serdiuk Andrii
+ * Authors: Okhrimenko Mykhailo, Serdiuk Andrii
  * */
 
 import javafx.animation.FadeTransition;
